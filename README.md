@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 "Soy Sebastián, un Full Stack Developer con experiencia en NodeJS, React, Redux y SQL, entre otras tecnologías del sector. Mi pasión por el desarrollo web me llevó a liderar la creación de un E-commerce exitoso que aumentó las ventas mensuales del negocio en un 35%. Poseo un pensamiento creativo y una habilidad para resolver problemas de manera efectiva. Mi enfoque en el trabajo en equipo y la comunicación me permite colaborar de manera efectiva en proyectos desafiantes. Siempre estoy en busca de nuevos retos y oportunidades para seguir creciendo profesionalmente."
 
